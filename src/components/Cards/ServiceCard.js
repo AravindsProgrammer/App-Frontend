@@ -23,7 +23,7 @@ export default function ServiceCard() {
             Makeup Artist
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            
+           Makeup also makes your best features stand out. When you look your best, you naturally feel better about yourself. This boost in confidence can help you in everything from your relationships to your work. We all have moments when we doubt ourselves
           </Typography>
         </CardContent>
       </CardActionArea>
